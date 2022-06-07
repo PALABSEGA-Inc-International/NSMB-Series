@@ -15,7 +15,7 @@ NSMW(2) (SNES)- Lunar Magic (Levels, Texts, Map)
 
 2. NEW Super Mario Bros.: The Lost Levels (2) (FDS)
 
-3.NEW Super Maio Land (2) (GB)
+3. NEW Super Maio Land (2) (GB)
 
 4. NEW Super Maio Land 2: 7 Golden Coins (2) (GB)
 
