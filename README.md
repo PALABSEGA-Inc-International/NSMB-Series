@@ -31,4 +31,5 @@ https://sites.google.com/view/palabsega-inc-beta-program
 # Copyrights
 Copyright © 2022 PALABSEGA Inc. International. 
 All Rights Reserved.
-PALABSEGA Inc. Is In No Way Associated With Nintendo Co.,Ltd., Microsoft Corporation And Other Companies
+
+PALABSEGA Inc. Is In No Way Associated With Nintendo Co.,Ltd., Microsoft Corporation And Other Companies.
