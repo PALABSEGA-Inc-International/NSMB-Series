@@ -4,10 +4,10 @@ PALABSEGA NSMB(2) Series On Github!!!
 # Tools We Use
 NSMB(2) (NES)- SMB Utility (Levels, Music, Texts)
 
-NSMBWii (2) (Wii)- Reggie! (Levels), BrawlBox (Other Stuffs), SZS Modifier (Messages)
+NSMBWii (2) (Wii)- Reggie! (Levels), BrawlBox (Other Stuffs), SZS Modifier (Texts)
 
-NSMB2 (2) (3DS)- CoinKiller (Levels), Switch ToolBox (Music- Loop Points), Citric Composer (Music), MSBT Editor (Messages)
-
+NSMB2 (2) (3DS)- CoinKiller (Levels), Switch ToolBox (Music- Loop Points), Citric Composer (Music), MSBT Editor (Texts)
+# Under Construction
 NSMW(2) (SNES)- Lunar Magic (Levels, Texts, Map)
 
 # Our Plans
