@@ -1,3 +1,5 @@
+<img width="100" alt="FILE - 複製" src="https://user-images.githubusercontent.com/106941808/173286437-2a4459dc-053c-4107-8ae7-4dc6376b0a13.png">
+
 # NSMB(2) Series
 PALABSEGA NSMB(2) Series On Github!!!
 
