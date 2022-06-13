@@ -32,6 +32,12 @@ https://sites.google.com/view/palabsega-inc-beta-program
 # Want To Submit Your Made Betas To Us?
 
 https://sites.google.com/view/palabsega-inc-beta-program/beta_submit
+# FAQ
+1. Q: Why The NSMB(2) NES Music Sounds Strange?
+
+   A: Because Of The SMB Utility's Bug.
+
+Ask More Questions In Our Website!!!
 
 # Copyrights
 Copyright © 2022 PALABSEGA Inc. International. 
