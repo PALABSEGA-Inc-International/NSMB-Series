@@ -21,7 +21,9 @@ PALABSEGA Beta Program:
 
 https://sites.google.com/view/palabsega-inc-beta-program
 
-# Copyrights
+# License & Copyrights
+License:https://bit.ly/3RnM3La
+
 Copyright © 2022 PALABSEGA Inc. International. 
 All Rights Reserved.
 
