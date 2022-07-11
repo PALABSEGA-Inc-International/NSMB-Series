@@ -22,7 +22,7 @@ PALABSEGA Beta Program:
 https://bit.ly/3PliWGK
 
 # License & Copyrights
-License:https://bit.ly/3RnM3La
+License: https://bit.ly/3RnM3La
 
 Copyright © 2022 PALABSEGA Inc. International. 
 All Rights Reserved.
