@@ -15,11 +15,11 @@ NEW Super Mario Bros. 2 (2) (3DS)- CoinKiller (Levels), Switch ToolBox (Music- L
 # Where To Download
 PALABSEGA Inc. Official Website:
 
-https://sites.google.com/view/palabsega-inc
+https://bit.ly/3yyGzV9
 
 PALABSEGA Beta Program:
 
-https://sites.google.com/view/palabsega-inc-beta-program
+https://bit.ly/3PliWGK
 
 # License & Copyrights
 License:https://bit.ly/3RnM3La
