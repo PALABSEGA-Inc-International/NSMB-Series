@@ -21,6 +21,9 @@ PALABSEGA Beta Program:
 
 https://bit.ly/3PliWGK
 
+# Need Help?
+Help Center: https://bit.ly/3atEkdS
+
 # License & Copyrights
 License: https://bit.ly/3RnM3La
 
